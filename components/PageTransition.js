@@ -1,0 +1,1 @@
+import{j as t,k as a}from"../assets/proxy.js";const r=({children:i})=>t.jsx(a.div,{initial:{opacity:0,scale:.95,filter:"blur(10px)"},animate:{opacity:1,scale:1,filter:"blur(0px)"},exit:{opacity:0,scale:1.05,filter:"blur(10px)"},transition:{duration:.6,ease:[.22,1,.36,1]},className:"min-h-screen pt-24 pb-12 px-4 md:px-8 relative z-10",children:i});export{r as P};
